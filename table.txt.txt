@@ -1,0 +1,9 @@
+movie ,  release , director , rating , description 
+ONWARD / 6th Mar 2020 / Dan Scanlon / 4 / Children'film, Animation, Comedy, Adventure 
+SOUL / 19th Jun 2020 / Pete Docter / 3 / Children'film, Animation, Comedy, Drama
+Minions: The Rise of Gru / 10th Jul 2020 / Kyle Balda / 5  / Animation, Comedy
+TENET / 17th Jul 2020 / Christopher Nolan / 3 / Action, Adventure, Thriller, Drama, Spy, Science fiction
+ANGREGI MEDIUM / March 13th 2020 / Homi Adajania / 4 / Drama, Comedy
+BLOODSHOT / March 13th 2020 / Dave Wilson / 4 / Action, Adventure, Super hero, Fantasy
+MULAN / March 27th 2020 / Nikola Jean Caro / 3 / Fantasy, Musical, Drama, War
+SOORYAVANSHI / March 24, 2020 / Rohit Shetty / 3 / Action, Thriller
